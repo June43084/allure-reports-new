@@ -1,0 +1,4 @@
+INFO     test_app:test_app.py:99 測試重複儲存單字
+INFO     app:app.py:90 載入使用者 test_user_id 的單字完成，數量: 0, 不熟單字模式: None
+INFO     app:app.py:90 載入使用者 test_user_id 的單字完成，數量: 1, 不熟單字模式: None
+INFO     app:app.py:90 載入使用者 test_user_id 的單字完成，數量: 1, 不熟單字模式: None
